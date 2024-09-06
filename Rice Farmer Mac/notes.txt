@@ -1,0 +1,11 @@
+\scan /command, 25 credits?
+
+
+conversion
+$1 = 500 credits
+1000 tokens ~ 750 words
+
+reference
+image = 20 credits
+gpt3.5 turbo 4k = 1.125 credits / 1k input tokens | 1.5 credits / 1k output tokens
+gpt3.5 turbo 16k = 2.25 credits / 1k input tokens | 3.0 credits / 1k output tokens
